@@ -1,4 +1,4 @@
-## Hi there  👋  It's Kk
+## Hi there.  👋  It's Kk.
 
 ### A Web Software Engineer
 
@@ -17,7 +17,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-#### email iankk0806@gmail.com
+#### email 📩 iankk0806@gmail.com
 
 
 <!--
