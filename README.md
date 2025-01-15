@@ -1,6 +1,6 @@
-## Hi there.  👋  It's Kk.
+## Hi there.  👋  It's Kk .
 
-### A Web Developer.
+### A Web Developer from Taiwan.
 
 ### 💼 Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
