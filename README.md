@@ -3,7 +3,8 @@
 ### A Web Developer from Taiwan.
 
 ### 簡介
-歷史學系與歷史學研究所畢業，在歷史的學海中悠遊十年，曾撰寫一篇碩士論文(https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=fIbYqf/record?r1=1&h1=1)，主要研究為清史與清代邊疆議題。
+歷史學系與歷史學研究所畢業，在歷史的學海中悠遊十年，曾撰寫一篇碩士[論文](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=fIbYqf/record?r1=1&h1=1)，主要研究為清史與清代邊疆議題。
+現今則是一名後端工程師，期望自己除了持續學習技術之餘，也能運用自己人文學的視角與精神，讓世界有一些許的不一樣。
 
 ### 💼 Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
