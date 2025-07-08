@@ -1,5 +1,9 @@
 ## Hi there.  👋  It's Kk .
-A Web Developer from Taiwan.
+
+### A Web Developer from Taiwan.
+
+### 簡介
+歷史學系與歷史學研究所畢業，在歷史的學海中悠遊十年，曾撰寫一篇碩士論文(https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=fIbYqf/record?r1=1&h1=1)，主要研究為清史與清代邊疆議題。
 
 ### 💼 Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
